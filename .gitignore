@@ -5,3 +5,6 @@ csvs/edges.csv
 csvs/tweets.csv
 graphs/similarities.gephi
 keywords/social_protests_text_tweets.txt
+social_protests.db/neostore.propertystore.db
+social_protests.db/neostore.propertystore.db.strings
+social_protests.db/neostore.relationshipstore.db
